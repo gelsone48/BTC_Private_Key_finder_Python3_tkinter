@@ -4,6 +4,8 @@ Search for a primary key of a lallet
 Search for a wallet
 Generate a wallet
 if the address is exists it will show get the primary key of it."HackTool"
+
+Run Python BTC_PKey_search.py enter the wallet address or any characters as the desire for search
 -----------------
 ## Note: using this app is the responsibility of the user Not Me
 -----------------
@@ -12,7 +14,7 @@ if the address is exists it will show get the primary key of it."HackTool"
 -------
 
 **Application**
-![alt tag](https://github.com/almosally/BTC_Priv-Key_Address_generator_py_gui/blob/master/screenshot.PNG?raw=true)
+![alt tag](https://github.com/almosally/BTC_Private_Key_finder_Python3_tkinter/blob/main/BTC_PKey_finder.PNG?raw=true)
 
 -------
 
